@@ -6,7 +6,7 @@ class Animal:
 
 class Cat(Animal):
     def meow(self):
-        return f"{self.name} meows!"
+        return f"{self.name} meows"
     
 my_cat = Cat("candy")
 
